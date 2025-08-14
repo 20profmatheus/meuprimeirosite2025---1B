@@ -4,3 +4,14 @@ body {
     font-family:'Times New Roman', Times, serif;
     margin-bottom: 100px;
 }
+
+header {
+    border-bottom: solid 2px green;
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+}
+
+.chamada {
+    
+}
